@@ -251,6 +251,7 @@ PokemonNames::
 	db "LUGIA@@@@@"
 	db "HO-OH@@@@@"
 	db "CELEBI@@@@"
+	db "ALO_RAICHU"
 	assert_table_length NUM_POKEMON
 	db "?????@@@@@"
 	db "EGG@@@@@@@"
