@@ -6,6 +6,7 @@ AlphabeticalPokedexOrder:
 	db AERODACTYL
 	db AIPOM
 	db ALAKAZAM
+	db ALO_RAICHU
 	db AMPHAROS
 	db ARBOK
 	db ARCANINE
