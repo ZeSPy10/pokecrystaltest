@@ -3355,3 +3355,11 @@ CelebiEvosAttacks:
 	db 40, BATON_PASS
 	db 50, PERISH_SONG
 	db 0 ; no more level-up moves
+
+AloRaichu
+	db 0 ; no more evolutions
+	db 1, PSYCHIC
+	db 1, TAIL_WHIP
+	db 1, THUNDERBOLT
+	db 1, QUICK_ATTACK
+	db 0 ; no more level-up moves
